@@ -1,5 +1,4 @@
 # bash
-bash - shell scripting
-shell scripts for question in the pdf
+shell scripts (bash) for question in the pdf
 
  
