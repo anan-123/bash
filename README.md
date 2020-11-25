@@ -1,4 +1,4 @@
 # bash
-shell scripts (bash) for question in the pdf
+shell scripts (bash) for questions in the pdf
 
  
